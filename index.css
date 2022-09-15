@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+body{
+    background-color:gray;
+}
+.bg {
+    margin: auto;
+    width: 362px;
+    height: px;
+    background-color:#f2f2f2;
+}
+.sushimenu {
+    width: 361px;
+    height: 62.5px;
+    left: 9px;
+    top: 6px;
+    background-color:#ffffff ;
+    border: 0.5px solid #a4acad;
+}
+.pnglogo {
+    margin-top: -53px;
+    margin-left: 15px;
+}
+.nashtel{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top:-50px;
+    margin-left: 111px;
+}
+.teln {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: #ff9846;
+    margin-left: 98px;
+}
+.chas {
+    margin-top: -45px;
+    margin-left: 250px;
+}
+.rabotaem {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    align-items: center;
+    text-align: center;
+    color: #a4acad;
+    margin-left: 155px;
+    margin-top: -5px;
+}
+.search {
+    margin-top: -32px;
+    margin-left: 318px;
+}
+.menu {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 15px;
+    border-radius: 5px;
+}
+.tmenu {
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    margin-top: -155px;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.menu1 {
+    margin-top:-162px ;
+    margin-left: 185px;
+}
+.menu2 {
+    margin-top: 3px;
+    margin-left: 15px;
+}
+.menu3 {
+    margin-top: -162px;
+    margin-left: 185px;
+}
+.menu4 {
+    margin-top: 3px;
+    margin-left: 15px;
+}
+.menu5 {
+    margin-top: -162px;
+    margin-left: 185px;
+}
+.menu6 {
+    margin-top: 3px;
+    margin-left: 15px;
+}
+.menu7{
+    margin-top: -162px;
+    margin-left: 185px;
+}
+.menu8 {
+    margin-top: px;
+    margin-left: 15px;
+}
+.menu9 {
+    margin-top: -136px;
+    margin-left: 185px;
+}
+.tmenu1 {
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: -135px;
+    margin-left: 25px;
+}
+.tmenu2 {
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: -20px;
+    margin-left: 195px;
+}
+.kombo {
+    margin-top:130px;
+    margin-left: 15px;
+}
+.kombot {
+    font-family: 'Roboto',sans-serif;
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: -145px;
+    margin-left: 10px;
+}
+.zakazsushi {
+    font-family: 'Roboto',sans-serif;
+    margin-left: 15px;
+    color: #a4acad;
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 140px;
+}
+.sal {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #a4acad;
+    line-height: 100%;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.padrone {
+    margin-top:-100px;
+}
+.padrob {
+    margin-top: 10px;
+    margin-left: 110px;
+}
+.vu {
+    font-family: 'Roboto',sans-serif;
+    color: #a4acad;
+    margin-top: 20px;
+    text-align: center;
+}
+.telegram {
+    margin-top: 10px;
+    margin-left: 155px;
+}
+.instagram {
+    margin-top: -55px;
+    margin-left: 230px;
+}
+.whatsup {
+    margin-top: -52px;
+    margin-left: 75px;
+}
+.tn {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 18px;
+    color: #a4acad;
+    font-weight: 400;
+}
+.vec {
+    width: 361px;
+    height: 72px;
+    margin-top: 50px;
+    background-color: #ffffff;
+    border: 0.5px solid #a4acad;
+    }
+.menui {
+    margin-top: -60px;
+    margin-left:65px;
+}
+.karzina {
+    margin-top: -35px;
+    margin-left:170px;    
+}
+.otzif {
+    margin-top: -33px;
+    margin-left: 270px;
+}
+.menute {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    margin-top: -5px;
+    margin-left: 68px;
+}
+.karzinat {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    margin-top: -18px;
+    margin-left: 158px;
+}
+.ott {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    margin-top: -18px;
+    margin-left: 255px;
+}
+
+
+
+   
+
+

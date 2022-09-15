@@ -1,0 +1,253 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
+body {
+  background-color: gray;
+}
+.bg {
+  margin: auto;
+  width: 362px;
+  background-color: #f2f2f2;
+  height: 1350px;
+}
+.sushimenu {
+  width: 361px;
+  height: 62.5px;
+  left: 9px;
+  top: 6px;
+  background-color: #ffffff;
+  border: 0.5px solid #a4acad;
+}
+.pnglogo {
+  margin-top: -53px;
+  margin-left: 15px;
+}
+.nashtel {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  margin-top: -50px;
+  margin-left: 111px;
+}
+.teln {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  color: #ff9846;
+  margin-left: 98px;
+}
+.chas {
+  margin-top: -45px;
+  margin-left: 250px;
+}
+.rabotaem {
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  align-items: center;
+  text-align: center;
+  color: #a4acad;
+  margin-left: 155px;
+  margin-top: -5px;
+}
+.search {
+  margin-top: -32px;
+  margin-left: 318px;
+}
+.menu {
+  position: relative;
+  margin-top: 30px;
+  margin-left: 15px;
+  border-radius: 5px;
+}
+.danniy {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  font-weight: 500;
+  color: #111111;
+  margin-top: 20px;
+  margin-left: 100px;
+}
+.famil {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+}
+.famil input {
+  width: 160px;
+  padding: 5px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  width: 160px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #a4acad;
+}
+.cs {
+  display: flex;
+  padding: 10px;
+  margin-top: -15px;
+  font-family: 'Roboto', sans-serif ;
+  font-weight: 500;
+  font-size: 18px;
+}
+.kur {
+  gap:10px ;
+  display: flex;
+  width: 165px;
+  padding: 9px 36px;
+  background: #ff9846;
+  border-radius: 5px 0px 0px 5px;
+  color:#ffffff ;
+}
+.sam {
+  gap: ;
+  display: flex;
+  width: 165px;
+  padding: 9px 36px;
+  background: #ffffff;
+  border-radius: 0px 5px 5px 0px;
+}
+.jit input {
+  width: 95%;
+  padding: 5px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #a4acad;
+}
+.jit {
+  margin-top: 10px;
+  margin-left: 10px;
+  display:flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.bir {
+  display: flex;
+  flex-direction: column;
+}
+.sc {
+  display: flex;
+  padding: 10px;
+  margin-top: -15px;
+  font-family: 'Roboto', sans-serif ;
+  font-weight: 500;
+  font-size: 18px;
+}
+.ruk {
+  gap:10px ;
+  display: flex;
+  width: 100px;
+  padding: 9px 36px;
+  background: #ff9846;
+  border-radius: 5px 0px 0px 5px;
+  color:#ffffff ;
+  padding-left: -160px;
+}
+.mas {
+  gap:10px ;
+  display: flex;
+  width: 98px;
+  padding: 9px 36px;
+  background: #ffffff;
+  border-radius: 0px 5px 5px 0px;
+}
+.check {
+  margin-left: 10px;
+}
+.padg {
+  font-family: 'Roboto',sans-serif;
+ margin-top: -43px;
+ font-size:18px;
+ font-weight:400;
+ margin-left: 50px;
+}
+.summa input {
+  width: 100px;
+  padding: 5px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  height: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: #a4acad;
+}
+.summa {
+  margin-top: -53px;
+  margin-left: 240px;
+}
+.min {
+  font-family: 'Roboto',sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 10px;
+  margin-top: -10px;
+}
+.ima {
+  margin-top: -40px ;
+  margin-left: 270px;
+}
+.tovar {
+  font-family: 'Roboto',sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  margin-left: 30px;
+}
+.com {
+  font-family: 'roboto',sans-serif;
+  font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+margin-top: -40px;
+margin-left: 240px;
+}
+.hr {
+  margin-top: -10px;
+  width: 330px;
+  border: 0.5px solid #A4ACAD;
+}
+.tovar1 {
+  font-family: 'Roboto',sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  margin-left: 30px;
+  color: #ff9846;
+  margin-top: -px;
+}
+.com1 {
+  font-family: 'roboto',sans-serif;
+  font-weight: 500;
+font-size: 24px;
+line-height: 22px;
+margin-top: -52px;
+margin-left: 240px;
+color: #ff9846;
+}
+.ofor {
+  background-color: #F46D40;
+  width: 330px;
+  height: 48px;
+  right: 15px;
+  top: 980px;
+  margin-left:15px ;
+  border-radius: 5px;
+  margin-top: 40px;
+}
+.oft {
+  font-size: 24px;
+  font-family: 'roboto',sans-serif;
+  margin-top: -40px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-left: 80px;
+}
+
